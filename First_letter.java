@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class test {
+public class First_letter {
 // SWITCH Statements GUI
 	public static void main(String[]args) {	String k = "y";
 		while(k=="y") {

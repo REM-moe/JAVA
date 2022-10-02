@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LSargest
+public class second_largest
 {
 public static void main(String []ar)
 	{

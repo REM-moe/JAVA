@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Armstrong
+class Armstron
 {
 Scanner s = new Scanner(System.in);
 {System.out.println("Enter Number : ");} // Try Running Without { } 
@@ -23,12 +23,12 @@ class Arms
 		}
 	}
 }
-class Arm
+class Armstrong
 {
 public static void main(String ar[])
 	{
-	Armstrong Out = new Armstrong();
-	Armstrong.Arms In = Out.new Arms();
+	Armstron Out = new Armstron();
+	Armstron.Arms In = Out.new Armstrong();
 	In.armstrong_check();
 	}
 }

@@ -33,7 +33,7 @@ class MatrixOP
 	}
 }
 //Main Class
-class Matrix
+class MatrixMult
 {
 	public static void main(String ar[])
 	{

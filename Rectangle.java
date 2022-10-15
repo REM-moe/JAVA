@@ -10,7 +10,7 @@ float read(float l,float b)
 	}
 double area()
 	{
-	double area = lengt * breadth;
+	double area = length * breadth;
 	return area;
 	}
 }
